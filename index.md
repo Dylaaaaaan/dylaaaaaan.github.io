@@ -1,6 +1,7 @@
 ## Welcome to Zhichao Pages
 
 Hi, I am Zhichao, I am a junior student,
+![IMG_1792](https://user-images.githubusercontent.com/60527820/75710183-aebb3200-5c89-11ea-8468-228630ae6481.jpeg)
 
 ### Markdown
 
