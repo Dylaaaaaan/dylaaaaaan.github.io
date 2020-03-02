@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to Zhichao Pages
 
-You can use the [editor on GitHub](https://github.com/Dylaaaaaan/dylaaaaaan.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Hi, I am Zhichao, I am a junior student,
 
 ### Markdown
 
@@ -20,7 +18,7 @@ Syntax highlighted code block
 
 1. Numbered
 2. List
-
+![IMG_1792](https://user-images.githubusercontent.com/60527820/75710183-aebb3200-5c89-11ea-8468-228630ae6481.jpeg)
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
