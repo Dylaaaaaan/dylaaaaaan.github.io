@@ -22,11 +22,11 @@ Syntax highlighted code block
 2. List
 
 **Bold** and _Italic_ and `Code` text
-123
+
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+For more details see [GitHub Flavored Markdown](https://echo360.org/section/832c4c04-c6a3-40f8-aa83-84cbdbbbdd82/home).
 
 ### Jekyll Themes
 
