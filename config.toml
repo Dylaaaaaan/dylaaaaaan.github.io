@@ -1,0 +1,4 @@
+theme = "Jekyll-Mono"
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Zhichao Fan"
