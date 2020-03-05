@@ -1,4 +1,32 @@
-theme = "Jekyll-Mono"
-baseURL = "http://example.org/"
+baseurl = "http://example.org/"
+title = "Zhichao Website"
+theme = "hugo-theme-nix"
 languageCode = "en-us"
-title = "Zhichao Fan"
+disqusShortname = "your_disqus_shortname"
+
+[menu]
+  [[menu.header]]
+    name = "post"
+    weight = 0
+    url = "/post"
+  [[menu.header]]
+    name = "about"
+    weight = 1
+    url = "/about"
+
+[params]
+  GithubID = "Dylaaaaaan"
+  TwitterID = ""
+  LinkedInID = "zhichao-fan-5744461a3/"
+  GoogleplusID = ""
+  FacebookID = ""
+  TelegramID = ""
+  Name = "Zhichao Fan"
+  HeaderUsername = ""
+  HeaderHostname = ""
+  Email = "zhichao8@illinois.edu"
+  About = "Hi I'm Zhichao, This is my website, I am a junior, and my major is Mathematics."
+  ProfilePicture = "/profile.jpg"
+  Favicon = "/favicon.ico"
+  SlackURL = ""
+
